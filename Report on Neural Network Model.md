@@ -49,4 +49,3 @@ The final deep learning model showed promising results with **78.59% accuracy**,
 
 However, alternative models such as **Random Forests** or **Gradient Boosting** could be considered to improve accuracy further. These models excel in handling categorical data and may provide better interpretability for decision-making.
 
-Would you like me to add any additional details or format it differently? Happy to refine it further! 
