@@ -47,5 +47,5 @@ The purpose of this analysis was to build a deep learning model to predict the s
 ### **Summary**
 The final deep learning model showed promising results with **78.59% accuracy**, making it a useful tool for predicting application success. 
 
-However, alternative models such as **Random Forests** or **Gradient Boosting** could be considered to improve accuracy further. These models excel in handling categorical data and may provide better interpretability for decision-making.
+However, alternative models such as **Random Forests** or **Gradient Boosting** could be considered to improve accuracy further.
 
